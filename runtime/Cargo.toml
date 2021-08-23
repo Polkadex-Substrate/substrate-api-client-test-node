@@ -25,7 +25,7 @@ pallet-transaction-payment = { tag = "monthly-2021-08", version = "4.0.0-dev", d
 frame-executive = { tag = "monthly-2021-08", version = "4.0.0-dev", default-features = false, git = "https://github.com/paritytech/substrate.git" }
 sp-api = { tag = "monthly-2021-08", version = "4.0.0-dev", default-features = false, git = "https://github.com/paritytech/substrate.git" }
 sp-block-builder = { tag = "monthly-2021-08", version = "4.0.0-dev", default-features = false, git = "https://github.com/paritytech/substrate.git" }
-sp-consensus-aura = { version = "0.10.0-dev", default-features = false, git = "https://github.com/paritytech/substrate.git" }
+sp-consensus-aura = { tag = "monthly-2021-08", version = "0.10.0-dev", default-features = false, git = "https://github.com/paritytech/substrate.git" }
 sp-core = { tag = "monthly-2021-08", version = "4.0.0-dev", default-features = false, git = "https://github.com/paritytech/substrate.git" }
 sp-inherents = { default-features = false, tag = "monthly-2021-08", version = "4.0.0-dev", git = "https://github.com/paritytech/substrate.git" }
 sp-offchain = { tag = "monthly-2021-08", version = "4.0.0-dev", default-features = false, git = "https://github.com/paritytech/substrate.git" }
