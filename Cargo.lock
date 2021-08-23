@@ -7195,7 +7195,7 @@ dependencies = [
 [[package]]
 name = "substrate-build-script-utils"
 version = "3.0.0"
-source = "git+https://github.com/paritytech/substrate.git#60fd8cd0c9d8247070364fd923d5caf1f6f7ccda"
+source = "git+https://github.com/paritytech/substrate.git?tag=monthly-2021-08#4d28ebeb8b027ca0227fe7779c5beb70a7b56467"
 dependencies = [
  "platforms",
 ]

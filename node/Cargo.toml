@@ -57,7 +57,7 @@ frame-benchmarking-cli = { tag = "monthly-2021-08", version = "4.0.0-dev", git =
 node-template-runtime = { version = "3.0.0", path = "../runtime" }
 
 [build-dependencies]
-substrate-build-script-utils = { version = "3.0.0", git = "https://github.com/paritytech/substrate.git" }
+substrate-build-script-utils = { tag = "monthly-2021-08", version = "3.0.0", git = "https://github.com/paritytech/substrate.git" }
 
 [features]
 default = []
